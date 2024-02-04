@@ -13,7 +13,7 @@
 * Favorite Houses with Swift Data
 
 # Preview
-
+![airbnb ios](https://github.com/keremoflu/Airbnb-Clone-iOS-App/assets/4960295/3209ad77-bf02-4d21-a308-65e67400976b)
 
 # Requirements
 API Key is not needed. You can directly use the project.
